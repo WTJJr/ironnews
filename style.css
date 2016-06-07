@@ -1,0 +1,107 @@
+.body{
+  color: black;
+  width: 727px;
+  background-color: #e3e3e3;
+}
+.header {
+  background-color: #9797aa;
+  height: 22px;
+  padding-top: 5px;
+  width: 727px;
+  margin-bottom: 0px;
+}
+.divider {
+/*  This div places a divider above the footer links.  */
+  background-color: #9797aa;
+  height: 2px;
+  width: 727px;
+}
+a.ftlinks {
+/*  This removes standard hyperlink styling from the footer links.  */
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+}
+div.ftlinks {
+/* This div appears under the divider div.   */
+  color: black;
+  width: 727px;
+  height: 60px;
+  padding-top: 10px;
+  background-color: #e3e3e3;
+}
+span.ftlinks {
+  padding-left: 100px;
+  height: 30px;
+}
+
+.login {
+  margin-left: 305px;
+  margin-right: 5px;
+  color: black;
+}
+
+.logo {
+  color: white;
+  font-style: bold;
+  font-size: 15px;
+  border: 1px solid white;
+  padding-left: 6px;
+  padding-right: 6px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.more {
+  height: 30px;
+  margin-top: 20px;
+}
+
+.title {
+  color: black;
+}
+
+.navbar a {
+/*  This removes hyperlink styling from the navbar.   */
+  text-decoration: none;
+  color: black;
+}
+
+.search {
+  color: grey;
+  margin-left: 230px;
+  margin-top: 10px;
+}
+
+.subline {
+  color: grey;
+  font-size: 10px;
+}
+
+.taillink {
+/*  This styles the links following each li differently from the p content of the li.  */
+  color: grey;
+  text-decoration: none;
+}
+
+body {
+  color: white;
+}
+
+ol {
+  margin: 0px;
+  padding-top: 10px;
+  color: darkgrey;
+}
+
+ol li {
+  color: grey;
+}
+
+p {
+  color: black;
+  margin: 0px;
+}
+form {
+/* This places the search box on the same line as "Search:"   */
+  display: inline-block;
+}
