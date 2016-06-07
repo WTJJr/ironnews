@@ -11,7 +11,8 @@
   margin-bottom: 0px;
 }
 .divider {
-/*  This div places a divider above the footer links.  */
+/*  This div places a divider above the footer links. Note that the background color isn't an outright gray - it's
+like a light purple-ish gray  */
   background-color: #9797aa;
   height: 2px;
   width: 727px;
